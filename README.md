@@ -408,7 +408,10 @@ Planify/
  ```http
  http://localhost:PORT_you_put_in_the_.env_file
  ```
-4.Test it with Postman
+4.Test it with Postman:
+<br>
+<br>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 
 ## Authors
 
