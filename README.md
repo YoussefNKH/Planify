@@ -39,12 +39,6 @@ PORT=3000
 MONGO_URI=mongodb://mongo:27017/planify
 JWT_SECRET=your_jwt_secret
 ```
-4.Run the project using Docker Compose:
-  ```bash
-  docker-compose up --build
-  ```
-
-
 ## API Reference
 
 ## Event Routes
