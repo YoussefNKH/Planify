@@ -1,0 +1,29 @@
+# Node.js dependencies
+/node_modules/
+
+# .env file to keep sensitive data like JWT_SECRET, etc.
+.env
+
+# Logs
+*.log
+
+# IDE or editor specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore build files (if any)
+dist/
+build/
+
+# Optional: Ignore Docker-related files (if any)
+.docker/
+
+# Optional: Ignore coverage folders for tests
+coverage/
+
+# Optional: Ignore temporary files created during development
+*.swp
