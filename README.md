@@ -415,5 +415,6 @@ Planify/
 
 ## Authors
 
-- [@youssefNKH](https://github.com/YoussefNKH)
+- [@youssef NAKHLI](https://github.com/YoussefNKH)
+- [@Iyed Djebbi](https://github.com/iy3d1243)
 
